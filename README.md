@@ -20,7 +20,7 @@ The dashboard helps in identifying:
 - `project_learning.jpg` → Project learnings  
 
 ## 📊 Dashboard Preview
-![Dashboard Screenshot]([dashboard.png](https://github.com/Gyan122812/Ecommerce-Sales-Dashboard-PowerBI/blob/main/Dashboard%20Screenshot.png))
+![Dashboard Screenshot](Dashboard Screenshot.png))
 
 ## 🚀 Project Learnings
 - Created interactive Power BI dashboard to track & analyze online sales data
